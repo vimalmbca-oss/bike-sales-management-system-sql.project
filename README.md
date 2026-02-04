@@ -14,7 +14,7 @@ This system maintains records of:
 The project demonstrates the use of database design, primary & foreign keys, joins, filtering, and data analysis queries using SQL.
 
 ---
-##🎯 Key Functionalities
+## 🎯 Key Functionalities
 
 - Track bike bookings across multiple branches
 - Calculate customer pending amount
@@ -27,20 +27,20 @@ The project demonstrates the use of database design, primary & foreign keys, joi
 ## 🗂️ Database Structure
 The project contains the following tables:
 
-###1️⃣ Branch Table
+### 1️⃣ Branch Table
 Stores branch details:
 - Branch ID
 - Branch Name
 - Branch Address
 
-###2️⃣ Models Table
+### 2️⃣ Models Table
 Stores KTM bike model details:
 - Bike ID
 - Bike Model Name
 - Ex-Showroom Price
 - On-Road Price
 
-###3️⃣ Customers Table
+### 3️⃣ Customers Table
 Stores customer booking details:
 - Customer ID
 - Name
@@ -52,7 +52,7 @@ Stores customer booking details:
 - Booking Date
 - Initial Amount Paid
 
-###4️⃣ Delivery Table
+### 4️⃣ Delivery Table
 Stores delivery and payment information:
 - Delivery ID
 - Delivery Date
@@ -61,7 +61,7 @@ Stores delivery and payment information:
 
 ---
 
-##💻 Technologies Used
+## 💻 Technologies Used
 
 - MySQL
 - SQL Queries
